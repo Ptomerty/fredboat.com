@@ -63,11 +63,11 @@ Got all those things together? Continue reading below to learn how to set up con
 
 ### Setting up configuration files
 
-- Fill in `common.yml` with your Discord bot token.
+Fill in `common.yml` with your Discord bot token.
 
-- CAREFULLY read `fredboat.yml`, then fill in with your YouTube Data API keys. Optionally, fill in your Imgur, Spotify, OpenWeather, and Sentry API keys.
+CAREFULLY read `fredboat.yml`, then fill in with your YouTube Data API keys. Optionally, fill in your Imgur, Spotify, OpenWeather, and Sentry API keys.
 
-- Configure your remaining settings.
+Configure your remaining settings.
 
 ### Run FredBoat with docker-compose
 
