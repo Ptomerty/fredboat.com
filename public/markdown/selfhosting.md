@@ -61,6 +61,13 @@ You may want to read these configuration files, as they contain a few advanced o
 
 Got all those things together? Continue reading below to learn how to set up config and credentials files, then proceed with the instructions on how to run FredBoat with docker-compose.
 
+### Setting up configuration files
+
+- Fill in `common.yml` with your Discord bot token.
+
+- CAREFULLY read `fredboat.yml`, then fill in with your YouTube Data API keys. Optionally, fill in your Imgur, Spotify, OpenWeather, and Sentry API keys.
+
+- Configure your remaining settings.
 
 ### Run FredBoat with docker-compose
 
